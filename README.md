@@ -14,8 +14,7 @@
 
 ## Screenshots
 
-https://github.com/akshat206/Landmark-Datection-App/blob/main/ss1.JPG
-https://github.com/akshat206/Landmark-Datection-App/blob/main/ss2.JPG
-https://github.com/akshat206/Landmark-Datection-App/blob/main/ss3.JPG
-
+<img src="https://github.com/akshat206/Landmark-Datection-App/blob/main/ss1.JPG">
+<img src="https://github.com/akshat206/Landmark-Datection-App/blob/main/ss2.JPG">
+<img src="https://github.com/akshat206/Landmark-Datection-App/blob/main/ss3.JPG">
 ## Made with ❤️ By Akshat
